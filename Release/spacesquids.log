@@ -1,0 +1,109 @@
+﻿  physics.cpp
+  spacesquids.cpp
+c:\users\tompo_000\documents\games\spacesquids\matrix.h(241): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+          c:\users\tompo_000\documents\games\spacesquids\matrix.h(318) : see reference to class template instantiation 'math::matrix<T>' being compiled
+c:\users\tompo_000\documents\games\spacesquids\matrix.h(242): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\tompo_000\documents\games\spacesquids\matrix.h(249): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\tompo_000\documents\games\spacesquids\matrix.h(250): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\tompo_000\documents\games\spacesquids\matrix.h(251): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\tompo_000\documents\games\spacesquids\matrix.h(254): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\tompo_000\documents\games\spacesquids\matrix.h(264): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\tompo_000\documents\games\spacesquids\matrix.h(265): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\tompo_000\documents\games\spacesquids\matrix.h(266): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\tompo_000\documents\games\spacesquids\matrix.h(267): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\tompo_000\documents\games\spacesquids\matrix.h(269): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\tompo_000\documents\games\spacesquids\matrix.h(416): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\tompo_000\documents\games\spacesquids\matrix.h(426): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\tompo_000\documents\games\spacesquids\matrix.h(487): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\tompo_000\documents\games\spacesquids\matrix.h(500): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\tompo_000\documents\games\spacesquids\matrix.h(524): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\tompo_000\documents\games\spacesquids\matrix.h(557): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\tompo_000\documents\games\spacesquids\matrix.h(582): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\tompo_000\documents\games\spacesquids\matrix.h(591): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\tompo_000\documents\games\spacesquids\matrix.h(616): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\tompo_000\documents\games\spacesquids\matrix.h(632): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\tompo_000\documents\games\spacesquids\matrix.h(639): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\tompo_000\documents\games\spacesquids\matrix.h(646): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\tompo_000\documents\games\spacesquids\matrix.h(670): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\tompo_000\documents\games\spacesquids\matrix.h(678): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\tompo_000\documents\games\spacesquids\matrix.h(724): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\tompo_000\documents\games\spacesquids\matrix.h(853): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\tompo_000\documents\games\spacesquids\matrix.h(906): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\tompo_000\documents\games\spacesquids\matrix.h(940): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\tompo_000\documents\games\spacesquids\xwing.hpp(126): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(195) : see declaration of 'strncpy'
+c:\users\tompo_000\documents\games\spacesquids\texture.hpp(39): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(211) : see declaration of 'fopen'
+spacesquids.cpp(1362): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(195) : see declaration of 'strncpy'
+spacesquids.cpp(1364): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : see declaration of 'strcpy'
+spacesquids.cpp(2056): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(195) : see declaration of 'strncpy'
+spacesquids.cpp(2060): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+spacesquids.cpp(2076): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+spacesquids.cpp(2103): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+spacesquids.cpp(2112): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+spacesquids.cpp(2118): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : see declaration of 'strcpy'
+spacesquids.cpp(2123): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : see declaration of 'strcpy'
+spacesquids.cpp(2130): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : see declaration of 'strcpy'
+spacesquids.cpp(2189): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+spacesquids.cpp(2234): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+spacesquids.cpp(2240): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+spacesquids.cpp(2246): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+spacesquids.cpp(2252): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+spacesquids.cpp(2258): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+spacesquids.cpp(2264): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+spacesquids.cpp(3955): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+spacesquids.cpp(3958): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+spacesquids.cpp(3961): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+spacesquids.cpp(3964): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+spacesquids.cpp(3997): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+spacesquids.cpp(4002): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+spacesquids.cpp(4011): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+spacesquids.cpp(4042): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : see declaration of 'strcpy'
+spacesquids.cpp(4046): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : see declaration of 'strcpy'
+spacesquids.cpp(4061): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+spacesquids.cpp(4085): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+spacesquids.cpp(4138): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+spacesquids.cpp(4144): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+spacesquids.cpp(4150): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+spacesquids.cpp(4156): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+spacesquids.cpp(4163): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+spacesquids.cpp(4180): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+spacesquids.cpp(4186): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+  Generating Code...
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(1193,5): warning MSB8012: TargetPath(C:\Users\tompo_000\Documents\games\Spacesquids\.\Release\spacesquids.exe) does not match the Linker's OutputFile property value (C:\Users\tompo_000\Documents\games\Spacesquids\spacesquids.exe). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+  spacesquids.vcxproj -> C:\Users\tompo_000\Documents\games\Spacesquids\.\Release\spacesquids.exe

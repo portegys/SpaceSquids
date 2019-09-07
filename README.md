@@ -1,2 +1,0 @@
-# SpaceSquids
-Space Squids Game
